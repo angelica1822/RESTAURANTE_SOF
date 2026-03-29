@@ -1,1 +1,2 @@
-# RESTAURANTE_SOF
+# ProyectoRestaurante
+Proyecto web  de restaurante
