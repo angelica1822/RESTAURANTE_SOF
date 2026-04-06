@@ -1,0 +1,6 @@
+projectKey=ProyectoRestaurante
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=ProyectoRestaurante
+ceTaskId=add12f9d-85da-4d54-afcf-0b03b594aff0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=add12f9d-85da-4d54-afcf-0b03b594aff0
